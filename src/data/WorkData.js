@@ -4,7 +4,7 @@ export const Work = [
     name: 'Dociit',
     companyName: 'Micro Focus Software Development',
     description:
-      'It is a Pre-Loan Processing app. It uses react as a core technology. It had 3 portals Borrower, Lender and Admin.',
+      'It is a Pre-Loan Processing app. It uses react as a core technology. It had 3 portals Borrower, Lender and Admin',
     tags: ['react', 'bootstrap', 'css', 'redux saga'],
   },
   {
